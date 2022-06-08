@@ -12,7 +12,7 @@
 # 🎞History
 2012.03 ~ 2015.03 양양중학교    
 2015.03 ~ 2018.03 양양고등학교 졸업   
-2018 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한림대학교 재학
+2018 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한림대학교 재학
 
 -----------------------------
 **2022년 1학기 현재 수강과목**
