@@ -6,13 +6,13 @@
 **<이름 : 고주현><br/>**
 **학번 : 20185204<br/>**
 **소속 : 한림대학교 정보과학대학 소프트웨어학부<br/>**
-**주전공 : 스마트 IOT 전공,  복수전공 : 반도체 전공<br/>**
+**주전공 : 스마트 IOT 전공, &nbsp;&nbsp; 복수전공 : 반도체 전공<br/>**
 
 ----------------------------
 # 🎞History
 2012.03 ~ 2015.03 양양중학교    
 2015.03 ~ 2018.03 양양고등학교 졸업   
-2018 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한림대학교 재학
+2018 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한림대학교 재학
 
 -----------------------------
 **2022년 1학기 현재 수강과목**
